@@ -1,0 +1,22 @@
+{
+    "name": "muflih/restful-clean",
+    "description": "A Laravel package with custom directory structure",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Muflih Kholidin",
+            "email": "muflic.24@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MMuflih\\RestfulClean\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.2",
+        "laravel/lumen-framework": "^10.0",
+        "irazasyed/telegram-bot-sdk": "^3.14"
+    }
+}
