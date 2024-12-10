@@ -5,7 +5,7 @@
  * Date: 04.07.2017
  */
 
-namespace App\Context;
+namespace MMuflih\Context;
 
 use Illuminate\Support\Facades\DB;
 use Illuminate\Pagination\LengthAwarePaginator;

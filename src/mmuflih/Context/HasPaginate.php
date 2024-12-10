@@ -5,7 +5,7 @@
  * Date: 04.07.2017
  */
 
-namespace App\Context;
+namespace MMuflih\Context;
 
 use Carbon\Carbon;
 use Illuminate\Pagination\Paginator;

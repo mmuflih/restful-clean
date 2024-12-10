@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "MMuflih\\RestfulClean\\": "src/"
+            "MMuflih\\RestfulClean\\": "src/mmuflih/"
         }
     },
     "require": {

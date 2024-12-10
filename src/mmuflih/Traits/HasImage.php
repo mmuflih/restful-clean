@@ -6,7 +6,7 @@
  * muflic.24@gmail.com
  **/
 
-namespace App\Traits;
+namespace MMuflih\Traits;
 
 trait HasImage
 {

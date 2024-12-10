@@ -6,7 +6,7 @@
  * muflic.24@gmail.com
  **/
 
-namespace App\Jobs;
+namespace MMuflih\Jobs;
 
 use GuzzleHttp\Client;
 use Illuminate\Bus\Queueable;

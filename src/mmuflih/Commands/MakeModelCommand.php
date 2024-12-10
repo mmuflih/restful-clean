@@ -6,7 +6,7 @@
  * muflic.24@gmail.com
  **/
 
-namespace App\Console\Commands;
+namespace MMuflih\Commands;
 
 use Illuminate\Console\GeneratorCommand;
 use Illuminate\Support\Str;

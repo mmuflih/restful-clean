@@ -6,13 +6,13 @@
  * muflic.24@gmail.com
  **/
 
-namespace App\Http\Controllers;
+namespace MMuflih\Http\Controllers;
 
-use App\Context\Handler;
-use App\Context\PagedList;
-use App\Context\Reader;
-use App\Jobs\TelegramJob;
-use App\Jobs\WriteLog;
+use MMuflih\Context\Handler;
+use MMuflih\Context\PagedList;
+use MMuflih\Context\Reader;
+use MMuflih\Jobs\TelegramJob;
+use MMuflih\Jobs\WriteLog;
 use Illuminate\Contracts\Container\BindingResolutionException;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;

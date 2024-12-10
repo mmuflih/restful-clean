@@ -6,9 +6,9 @@
  * muflic.24@gmail.com
  **/
 
-namespace App\Context;
+namespace MMuflih\Context;
 
-interface Reader
+interface Handler
 {
-    public function read();
+    public function handle();
 }

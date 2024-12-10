@@ -6,7 +6,7 @@
  * muflic.24@gmail.com
  **/
 
-namespace App\Context;
+namespace MMuflih\Context;
 
 use Illuminate\Contracts\Support\Arrayable;
 use Illuminate\Pagination\LengthAwarePaginator;
